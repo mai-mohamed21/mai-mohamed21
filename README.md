@@ -17,31 +17,21 @@ I’m a Machine Learning Engineer, currently studying at the Faculty of Computer
 \- Skills:
 
 \- Programming & Data
-
 ● Python, R, SQL, Java, C
-
 ● Data Entry & Cleaning, Data Collection, Data Preprocessing
 
 \- ML & AI
-
 ● Regression, Classification, Clustering, Deep Learning
-
 ● NLP, Computer Vision
-
 ● Data Analysis & Visualization: Excel (Pivot, VLOOKUP), Power BI (Dashboards) , Streamlit, Matplotlib, Plotly, Seaborn
-
 ● Web Scraping: Selenium, BeautifulSoup
 
 \-Cloud & IoT
-
 ● AWS, Azure AI
-
 ● ESP32, MQTT, FlutterFlow
 
 \-Collaboration & MLOps
-
 ● Git & GitHub, MLflow
-
 ● Docker (basic), FastAPI / Flask (basic)
 
 * 🌍  I'm based in Alexandria, Egypt
