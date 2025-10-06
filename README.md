@@ -16,8 +16,8 @@ I’m a Machine Learning Engineer, currently studying at the Faculty of Computer
 
 \- Skills:
 
-\- Programming & Data
-● Python, R, SQL, Java, C
+\- Programming & Data /n
+● Python, R, SQL, Java, C /n
 ● Data Entry & Cleaning, Data Collection, Data Preprocessing
 
 \- ML & AI
